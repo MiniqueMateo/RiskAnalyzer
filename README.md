@@ -33,3 +33,27 @@ Potential improvements :
   - FREE Stylized Bear - RPG Forest Animal (https://assetstore.unity.com/packages/3d/characters/animals/free-stylized-bear-rpg-forest-animal-228910)
   - Free Fire VFX - URP (https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226)
   - Sedan car - 01 (https://assetstore.unity.com/packages/3d/vehicles/land/sedan-car-01-190629)
+ 
+  # Screenshots from the app demo :
+  
+  ## Basic Scene
+  ![Basic Scene](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/scene.png)
+
+  ## Environment
+  ![Environment](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/Environment.png)
+
+  ## Environment Large View
+  ![EnvironmentLarge](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/EnvironmentLarge.png)
+
+  ## Response view
+  ![ResponseView](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/response.png)
+
+  ## Bear
+  ![Bear](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/bear.png)
+
+  ## Car
+  ![Car](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/car.png)
+
+  ## Fire
+  ![Fire](https://github.com/MiniqueMateo/RiskAnalyzer/blob/main/Screenshots/fire.png)
+  
