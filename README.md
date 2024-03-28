@@ -27,3 +27,9 @@ Potential improvements :
   - We use an Unity asset to capture windows and make them available in Unity as Texture2D and show SideQuest stream in Unity. (https://github.com/hecomi/uWindowCapture)
   - We send the capture of this Texture2D as a Base64 image to AI.
   - We receive and convert the response to display it in the headset on a panel containing a Text Mesh Pro component.
+ 
+  Assets used : 
+  - RPG Poly Pack - Lite (https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410)
+  - FREE Stylized Bear - RPG Forest Animal (https://assetstore.unity.com/packages/3d/characters/animals/free-stylized-bear-rpg-forest-animal-228910)
+  - Free Fire VFX - URP (https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226)
+  - Sedan car - 01 (https://assetstore.unity.com/packages/3d/vehicles/land/sedan-car-01-190629)
