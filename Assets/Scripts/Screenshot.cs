@@ -93,7 +93,7 @@ public class ScreenCapture : MonoBehaviour
                 {
                     ""type"": ""image_url"",
                     ""image_url"": {
-                        ""url"": ""https://media.discordapp.net/attachments/1092450846303866881/1221417349643632650/image.png?ex=6612808c&is=66000b8c&hm=614d064edb7440240d9a7acb500f740262d3b4fb2db929d0711cdef27f9ca617&=&format=webp&quality=lossless&width=1440&height=622""
+                        ""url"": ""data:image/jpeg;base64," + img + @"""
                     }
                 } 
            ] 
